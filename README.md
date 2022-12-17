@@ -689,5 +689,3 @@ export const getCartItems = createAsyncThunk(
   }
 )
 ```
-# redux-toolkit
-# redux-toolkit
